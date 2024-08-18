@@ -20,6 +20,7 @@ global.bname = botname
 //Extra Shortcuts
 global.smlink = process.env.SOCIAL_MEDIA_LINK || 'https://github.com/SilvaTechB'
 global.gclink = process.env.GROUP_LINK || 'https://chat.whatsapp.com/Jjj2lYrtGHc5WY2rUmC6JD'
+global.chlink = process.env.CHANNEL_LINK || 'https://whatsapp.com/channel/0029VaAkETLLY6d8qhLmZt2v'
  
 //Apikeys
 global.shizokeys = 'shizo'
@@ -54,7 +55,7 @@ global.getQrWeb = 0
 global.renderHost = 0
 global.replitHost = 0
 
-//global.pairingNumber = "" //put your bot number here
+global.pairingNumber = "254743706010" //put your bot number here
 
 global.mods = ['254743706010','254700143167']
 global.prems = ['254700143167','254743706010']
@@ -74,8 +75,17 @@ global.keysxteam = keysxteammm[Math.floor(keysxteammm.length * Math.random())]
 global.keysneoxrrr = ['5VC9rvNx', 'cfALv5']
 global.keysneoxr = keysneoxrrr[Math.floor(keysneoxrrr.length * Math.random())]
 global.lolkeysapi = ['GataDios']
-
-
+global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
+global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
+global.keysxteammm = [
+  '29d4b59a4aa687ca',
+  '5LTV57azwaid7dXfz5fzJu',
+  'cb15ed422c71a2fb',
+  '5bd33b276d41d6b4',
+  'HIRO',
+  'kurrxd09',
+  'ebb6251cc00f9c63',
+]
 
 let file = fileURLToPath(import.meta.url)
 watchFile(file, () => {

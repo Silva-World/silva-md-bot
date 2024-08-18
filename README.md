@@ -1,4 +1,4 @@
-# THE NEW LOOK OF SILVA MD BOT FROM THE SILVA V SERIES
+## THE NEW LOOK OF SILVA MD BOT FROM THE SILVA V SERIES
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -15,6 +15,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+am+Silva+Tech..&hearts;++;Self-taught+Back-End+Developer,;From+Kenya🇰🇪,;My+Hobby+Is+Coding,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..🥂💕">
   </a>
 </p>
+
 
 <p align="center"> Introducing 𝑺𝒊𝒍𝒗𝒂 𝒕𝒆𝒄𝒉, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
 
@@ -35,6 +36,7 @@
 
 ---
 
+<img align= "right" width= "240" src= "https://media.tenor.com/YM91d6z3icQAAAAi/anime.gif"/>
 
 
 
@@ -64,7 +66,24 @@
 
 1. PAIRING
     <br>
-<a href='https://cred-session.onrender.com/pair' target="_blank"><img alt='PAIR CODE' src='https://img.shields.io/badge/Pair_code-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
+<details>
+<summary>CLICK HERE TO GET YOUR CREDS.JSON FILE</summary>
+<a href='https://creds-1.onrender.com/pair' target="_blank"><img alt='PAIR CODE' src='https://img.shields.io/badge/Pair_code-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
+
+</details>
+
+
+
+<details>
+<summary>CLICK HERE TO UPLOAD YOUR CREDS.JSON FILE</summary>
+<a href='https://github.com/SilvaTechB/silva-md-bot/tree/main/Authenticators' target="_blank"><img alt='UPLOAD CREDS.JSON' src='https://img.shields.io/badge/UPLOAD_CREDS.JSON-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=red'/></a>
+
+Then **[Upload](https://github.com/SilvaTechB/silva-md-bot/tree/main/Authenticators)** your creds.json file in the **[session folder](https://github.com/SilvaTechB/silva-md-bot/tree/main/Authenticators)**
+
+### DELETE THE EXISTING CREDS.JSON FILE
+</details>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 #### DEPLOY TO HEROKU 
 
@@ -74,7 +93,7 @@
 
 3. Now Deploy
     <br>
-<a href='https://dashboard.heroku.com/new?template=https://github.com/SilvaTechB/s-ilva' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/SilvaTechB/silva-md-bot' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 ##
 #### DEPLOY TO KOYEB 
 
@@ -123,8 +142,24 @@ For help visit [Github wiki](https://github.com/SilvaTechB/silva-md-bot/wiki)
 
 
 ---
-### Credits to:
-- [Tech king](https://github.com/Sylivanu) for support
+## CREDITS TO:
+
+<a href="https://github.com/shizothetechie"><img src="https://github.com/shizothetechie.png?size=100" width="130" height="100"></a> | [<img src="https://github.com/github.png?size=100" width="100" height="100">](https://github.com/github) 
+---|---
+[SHIZO](https://github.com/shizothetechie)  | [GITHUB](https://github.com/github)
+Base | Github Team|
+<a href="https://github.com/SilvaTechB"><img src="https://github.com/SilvaTechB.png?size=100" width="130" height="100"></a> | [<img src="https://github.com/Sylivanu.png?size=100" width="100" height="100">](https://github.com/Sylivanu) 
+---|---
+[TEAM SILVA](https://github.com/SilvaTechB)  | [MANAGER](https://github.com/Sylivanu)
+Maintainer | Silva Team|
+<a href="https://github.com/Lazack28"><img src="https://github.com/Lazack28.png?size=100" width="130" height="100"></a> | [<img src="https://github.com/FG98F.png?size=100" width="100" height="100">](https://github.com/FG98F) 
+---|---
+[LAZACK](https://github.com/Lazack28)  | [FG98F](https://github.com/FG98F)
+Maintainer | FG98F|
+
+
+
+
 
 ---
 
